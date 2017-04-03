@@ -18,6 +18,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        btnPress = (Button) findViewById(R.id.btnPress);
+        txtName = (EditText) findViewById(R.id.txtName);
+        lblHello = (TextView) findViewById(R.id.lblHello);
+
         btnPress.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
