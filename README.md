@@ -1,16 +1,12 @@
-# AndroidKickstartWorkshop
-Android Workshop Examples
+# Android Workshop Examples
 
 There are several lessons will be updated time to time
 
-Lesson 1:
-Interaction between components (`TextView`, `EditText`, `Button`)
+## Lessons
 
-Lesson 2:
-Interaction between Activities
-
-Lesson 3:
-Save data using `SharedPreferences`
-
-Lesson 4:
-Implement `ListView` and `GridView` using `ArrayAdapter`
+Lesson | Description
+-- | --
+1 | Interaction between components (`TextView`, `EditText`, `Button`)
+2 | Interaction between `Activities`
+3 | Save data using `SharedPreferences`
+4 | Implement `ListView` and `GridView` using `ArrayAdapter`
